@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/logihab/browser/browser",
+    "public": "dist/logihab/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
